@@ -22,6 +22,6 @@ document.cookie
 6. Then run python skillshare-dl.py "course-link"
 
 ## Credits
-	- [K-E-N-W-A-Y](https://github.com/K-E-N-W-A-Y)
-	- [kallqvist](https://github.com/kallqvist)
-	- [04anubhavv](https://github.com/04anubhavv)
+ - [K-E-N-W-A-Y](https://github.com/K-E-N-W-A-Y)
+ - [kallqvist](https://github.com/kallqvist)
+ - [04anubhavv](https://github.com/04anubhavv)
